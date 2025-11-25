@@ -10,6 +10,10 @@ function App() {
     mode ? setGameMode(mode) : setGameMode(null);
   };
 
+  useEffect(() => {
+    sdk.actions.ready();
+}, []);
+
   return (
     <>
       {gameMode ? (
