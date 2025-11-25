@@ -6,6 +6,11 @@ import { sdk } from '@farcaster/miniapp-sdk';
 
 
 function App() {
+
+  useEffect(() => {
+    sdk.actions.ready();
+  }, []);
+
   const [gameMode, setGameMode] = useState(null);
 
   const handleChangeGameMode = (mode) => {
