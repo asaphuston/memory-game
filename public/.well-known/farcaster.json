@@ -10,9 +10,9 @@
     "miniapp": {
       "version": "1",
       "name": "Memory",
-      "homeUrl": "",
-      "iconUrl": "",
-      "splashImageUrl": "",
+      "homeUrl": "https://memory-game-taupe-ten.vercel.app",
+      "iconUrl": "https://memory-game-taupe-ten.vercel.app/favicon.png",
+      "splashImageUrl": "https://memory-game-taupe-ten.vercel.app/favicon.png",
       "splashBackgroundColor": "#000000",
       "webhookUrl": "https://ex.co/api/webhook",
       "subtitle": "Play with base",
@@ -22,11 +22,11 @@
       ],
       "primaryCategory": "social",
       "tags": ["miniapp", "baseapp"],
-      "heroImageUrl": "",
+      "heroImageUrl": "https://memory-game-taupe-ten.vercel.app/favicon.png",
       "tagline": "Play instantly",
       "ogTitle": "Memory",
       "ogDescription": "Play with base.",
-      "ogImageUrl": "",
+      "ogImageUrl": "https://memory-game-taupe-ten.vercel.app/favicon.png",
       "noindex": true
     }
   }
