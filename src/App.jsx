@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { MenuScreen } from "./components/MenuScreen";
 import { GameScreen } from "./components/GameScreen";
 import colorNamesImg from "./assets/images/color-names-1x.png";
