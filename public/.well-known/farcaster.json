@@ -9,24 +9,24 @@
     },
     "miniapp": {
       "version": "1",
-      "name": "Tic-Tac-Toe",
-      "homeUrl": "https://tictactoe-phi-rose.vercel.app",
-      "iconUrl": "https://tictactoe-phi-rose.vercel.app/tic-tac-toe.png",
-      "splashImageUrl": "https://tictactoe-phi-rose.vercel.app/logo.png",
+      "name": "Memory",
+      "homeUrl": "",
+      "iconUrl": "",
+      "splashImageUrl": "",
       "splashBackgroundColor": "#000000",
       "webhookUrl": "https://ex.co/api/webhook",
-      "subtitle": "Fast, fun, social",
-      "description": "A fast, fun way to challenge friends in real time.",
+      "subtitle": "Play with base",
+      "description": "Play with base.",
       "screenshotUrls": [
-        "https://tictactoe-phi-rose.vercel.app/logo.png"
+        ""
       ],
       "primaryCategory": "social",
       "tags": ["miniapp", "baseapp"],
-      "heroImageUrl": "https://tictactoe-phi-rose.vercel.app/logo.png",
+      "heroImageUrl": "",
       "tagline": "Play instantly",
-      "ogTitle": "Tic-Tac-Toe",
-      "ogDescription": "Challenge friends in real time.",
-      "ogImageUrl": "https://tictactoe-phi-rose.vercel.app/logo.png",
+      "ogTitle": "Memory",
+      "ogDescription": "Play with base.",
+      "ogImageUrl": "",
       "noindex": true
     }
   }
