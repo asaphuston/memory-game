@@ -2,6 +2,8 @@ import { useState } from "react";
 import { MenuScreen } from "./components/MenuScreen";
 import { GameScreen } from "./components/GameScreen";
 import colorNamesImg from "./assets/images/color-names-1x.png";
+import { sdk } from '@farcaster/miniapp-sdk';
+
 
 function App() {
   const [gameMode, setGameMode] = useState(null);
