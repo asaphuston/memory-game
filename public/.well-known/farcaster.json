@@ -10,6 +10,7 @@
     "miniapp": {
       "version": "1",
       "name": "Memory",
+      "imageUrl": "https://memory-game-taupe-ten.vercel.app/favicon.png",
       "homeUrl": "https://memory-game-taupe-ten.vercel.app",
       "iconUrl": "https://memory-game-taupe-ten.vercel.app/favicon.png",
       "splashImageUrl": "https://memory-game-taupe-ten.vercel.app/favicon.png",
